@@ -1,0 +1,27 @@
+body{
+    background-color: burlywood;
+}
+
+.titulos{
+ font-size: 54px;
+ color: brown;
+}
+
+h1 {
+    color: blue;
+}
+
+#titulos {
+    font-size: 06px;
+}
+
+.selector {
+    color: red;
+    font-size: 18px;
+    margin: 10px;
+    border: 1px double red;
+}
+
+p {
+    font-family: "arial";
+  }
