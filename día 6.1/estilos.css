@@ -12,5 +12,22 @@ font-size: 36px;
 }
 
 .tipografia_02{
-font-size: 24;
+font-size: 30px;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.cuadricula{
+    margin-top: 100px;
+}
+
+.boton_home{
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
